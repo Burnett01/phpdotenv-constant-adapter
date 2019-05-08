@@ -6,4 +6,8 @@ A PHP ```define()``` & ```constant()``` adapter for [vlucas/phpdotenv](https://g
 
 Check the following guide:  [https://github.com/vlucas/phpdotenv#loader-customization](https://github.com/vlucas/phpdotenv#loader-customization)
 
+---
+
 ## LICENSE 
+
+MIT
